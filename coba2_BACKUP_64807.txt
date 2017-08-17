@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-aaabccccbbaaa
-bbbb
-=======
-aaabbbbbbaaa
-bbbb
->>>>>>> refs/remotes/origin/master
